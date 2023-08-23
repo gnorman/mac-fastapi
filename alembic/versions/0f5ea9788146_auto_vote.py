@@ -1,7 +1,7 @@
 """auto-vote
 
 Revision ID: 0f5ea9788146
-Revises: c5ee9aa422cd
+Revises: cb65cbd624c
 Create Date: 2023-07-22 08:36:03.219817
 
 """
@@ -11,7 +11,7 @@ import sqlalchemy as sa
 
 # revision identifiers, used by Alembic.
 revision = '0f5ea9788146'
-down_revision = 'c5ee9aa422cd'
+down_revision = 'cb65ecbd642c'
 branch_labels = None
 depends_on = None
 
